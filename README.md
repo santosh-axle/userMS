@@ -1,2 +1,2 @@
 # userMS
-Demoing Eureka Client API
+Demontrating Eureka Client API
